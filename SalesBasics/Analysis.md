@@ -1,6 +1,6 @@
 # Dashboard
 
-![image](https://github.com/SaurabhS312/Data-Analysis/assets/132185036/d2b8b595-723b-40aa-8f71-607016c5a4d6)
+![image](https://github.com/SaurabhS312/Data-Analysis/assets/132185036/6fa5568f-285e-4abb-b18b-c4f66ebc6b5b)
 
 
 # Insights
